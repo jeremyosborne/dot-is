@@ -20,3 +20,10 @@ I like [redux-ducks](https://github.com/erikras/ducks-modular-redux) and given t
 * Hidden from regular, \*NIX terminal commands.
 * Would not do the job of other metadata or accepted docs (e.g. package.json, README.md, LICENSE, \_\_init\_\_.py).
 
+Since the team (including me) is new to redux-ducks, and we're not publishing every duck on our internal NPM, and we don't like shoving things into typed folders do the annoying `import` and `require` relative includes with all the dot-slashes, I've been dropping files named `is.duck` in each of the duck folders with the following contents:
+
+```
+https://github.com/erikras/ducks-modular-redux
+```
+
+Time will tell if this is effective or lame. If this repo is still here, I either liked it or I didn't like it and forgot to delete the repo.
