@@ -10,6 +10,10 @@ Drop a file named in the following format in a folder:
 
 The contents of the file is up to you. At this stage of my idea, the contents are free-form **but should be human friendly text of some kind unless your file extension indicates otherwise.**
 
+## Recipes / Registry
+
+* .is.duck -> [redux-ducks](https://github.com/erikras/ducks-modular-redux)
+
 ## Inspiration
 
 I like [redux-ducks](https://github.com/erikras/ducks-modular-redux) and given the file/folder structure of the projects I'm working on, I wanted something that could be added to the file that:
